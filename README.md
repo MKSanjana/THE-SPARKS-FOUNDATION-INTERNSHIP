@@ -17,6 +17,7 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’ As a business manager, try to find out the weak areas where you can work to make more profit. What all business problems you can derive by exploring the data? You can choose any of the tool of your choice Dataset link :https://bit.ly/3i4rbWl 
 
 
-#TASK 8
+#TASK 6
 
-Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc) Use animation, timeline and annotations to create attractive and interactive dashboards and story Identify interesting patterns and possible reasons helping Covid 19 spread with basic as well as advanced charts Use Tableau or Power BI for this task Screen record the completed storyboard along with your audio explaining the charts and giving recommendations. Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+Create the decision tree classifier and visualise graphically for Iris Dataset .The purpose is if we feed any data to the classifier,it would be able to predict the right class accordingly.
+Dataset link:https://bit.ly/3kXTdox
