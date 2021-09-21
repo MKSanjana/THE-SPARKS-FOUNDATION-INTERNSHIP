@@ -21,3 +21,9 @@ Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperst
 
 Create the decision tree classifier and visualise graphically for Iris Dataset .The purpose is if we feed any data to the classifier,it would be able to predict the right class accordingly.
 Dataset link:https://bit.ly/3kXTdox
+
+#TASK 5
+
+Exploratory Data Analysis - Sports
+Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.Suggest teams or players a company should endorse for its products.
+Dataset:https://bit.ly/34SRn3b
